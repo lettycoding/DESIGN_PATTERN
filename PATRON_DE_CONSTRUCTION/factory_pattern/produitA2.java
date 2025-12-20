@@ -1,3 +1,6 @@
+
+package factory_pattern;
+
 public class produitA2 extends productA {
     public void methodA() {
         System.out.println("This is produitA2 methodA");

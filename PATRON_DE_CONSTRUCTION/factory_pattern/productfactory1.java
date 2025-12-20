@@ -1,3 +1,5 @@
+package factory_pattern;
+
 public class productfactory1 extends productfactory {
 
     protected productA createProductA() {

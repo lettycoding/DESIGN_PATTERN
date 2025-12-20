@@ -1,3 +1,5 @@
+package factory_pattern;
+
 public abstract class productfactory {
     protected abstract productA createProductA();
     

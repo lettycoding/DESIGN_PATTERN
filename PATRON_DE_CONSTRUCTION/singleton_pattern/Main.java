@@ -1,6 +1,6 @@
 package singleton_pattern;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
 
         singleton.resetinstance();
