@@ -1,4 +1,4 @@
-package PATRON_DE_STRUCTURATION.adapter_pattern;
+package PATRON_DE_STRUCTURATION.adapter_pattern.example_vente_vehicule;
 
 public class serveurweb {
 
